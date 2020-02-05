@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use('/api', newsRoutes);
 
 mongoose.connect(
-    "mongodb://abdullah:32410668gG.@ds353358.mlab.com:53358/heroku_8206p688", { useNewUrlParser: true, useUnifiedTopology: true }, () => {
+    "example.connection.string", { useNewUrlParser: true, useUnifiedTopology: true }, () => {
         console.log("Database connected.")
     });
 app.listen(8080,()=>{

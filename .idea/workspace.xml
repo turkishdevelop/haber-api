@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c01aae25-823b-43ff-92eb-58682a3e310e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XDbabnb2cfEAMZ9X0uYxeFp1lG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c01aae25-823b-43ff-92eb-58682a3e310e" name="Default Changelist" comment="" />
+      <created>1580583676902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580583676902</updated>
+      <workItem from="1580583678611" duration="4954000" />
+      <workItem from="1580645415525" duration="1103000" />
+      <workItem from="1580648005494" duration="218000" />
+      <workItem from="1580654838110" duration="5142000" />
+      <workItem from="1580917446403" duration="6037000" />
+      <workItem from="1580932303299" duration="825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="72" key="#Servers" timestamp="1580595844343">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2281" y="72" key="#Servers/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1580595844343" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580585142228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580585142228" />
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1580932304470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580932304470" />
+    <state x="2385" y="238" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1580654837106" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1580583920225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580583920225" />
+  </component>
+</project>
